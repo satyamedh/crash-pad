@@ -1,4 +1,7 @@
 import './App.css';
+import './index.css';
+import yes from './yes.png';
+import no from './no.png'
 import React, { useEffect } from 'react';
 
 
@@ -6,6 +9,11 @@ function App() {
   useEffect(() => {
     document.title = 'Crash pad';
   }, []);
+  // random chance of 50% to redirect to rickroll if ?immune=1 is not in url
+  if (Math.random() > 0.5 && window.location.href.indexOf('immune=1') === -1) {
+    // redirect to rickroll
+    window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+  }
   return (
     <div className="App">
       
@@ -34,45 +42,44 @@ function App() {
           </tr>
           <tr>
             <td className='border px-4 py-2'>Breakfast</td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           <tr>
             <td className='border px-4 py-2'>Dinner</td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           <tr>
             <td className='border px-4 py-2'>Swimming pool</td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           <tr>
             <td className='border px-4 py-2'>Room service</td>
-            <td className='border px-4 py-2'><img src='/no.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={no} alt='no' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           <tr>
             <td className='border px-4 py-2'>Laundry</td>
-            <td className='border px-4 py-2'><img src='/no.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/no.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={no} alt='no' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={no} alt='np' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           <tr>
             <td className='border px-4 py-2'>High tea</td>
-            <td className='border px-4 py-2'><img src='/no.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/no.png' alt='yes' className='mx-auto'></img></td>
-            <td className='border px-4 py-2'><img src='/yes.png' alt='yes' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={no} alt='no' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={no} alt='no' className='mx-auto'></img></td>
+            <td className='border px-4 py-2'><img src={yes} alt='yes' className='mx-auto'></img></td>
           </tr>
           </tbody>
-
       </table>
-      
       </div>
+      <p className='text-left text-xl text-mono text-white mt-1 ml-56'>*Car service available on request with additional cost</p>
 
       
     </div>
