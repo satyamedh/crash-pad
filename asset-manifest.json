@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crash-pad/static/css/main.f8067101.css",
+    "main.js": "/crash-pad/static/js/main.3dafa5f4.js",
+    "static/js/787.7a304816.chunk.js": "/crash-pad/static/js/787.7a304816.chunk.js",
+    "index.html": "/crash-pad/index.html",
+    "main.f8067101.css.map": "/crash-pad/static/css/main.f8067101.css.map",
+    "main.3dafa5f4.js.map": "/crash-pad/static/js/main.3dafa5f4.js.map",
+    "787.7a304816.chunk.js.map": "/crash-pad/static/js/787.7a304816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8067101.css",
+    "static/js/main.3dafa5f4.js"
+  ]
+}
