@@ -19,19 +19,18 @@ function App() {
   return (
     <div className="App">
       {/*navbar*/}
-      <ul className='flex bg-gray-700 text-white w-full'>
-      <li><p className='text-5xl text-mono text-white ml-6 mt-1' style={{fontFamily: "Bebas Neue"}}>Crash pad</p> </li>
+      <ul className='flex bg-gray-700 text-white w-full' style={{position: 'fixed', top: 0, zIndex: 10000}}>
+      <li><AnchorLink href="#top"><p className='text-5xl text-mono text-white ml-6 mt-1' style={{fontFamily: "Bebas Neue"}}>Crash pad</p></AnchorLink></li>
         <li id='mrl'><AnchorLink href='#packages'>Packages</AnchorLink></li>
         <li id='mrl mr-1 mt-auto'><AnchorLink href='#contact'>Contact</AnchorLink></li>
       </ul>
-
-      <div className="card bg-gray-600">
+      <a id='top'></a>
+      <div className="card bg-gray-600 mt-12">
       <img src={mainimg} alt='' className='card-img-top'></img>
   <div className="card-body">
     <p className='text-5xl text-mono text-white ml-6 mt-1' >Crash pad</p>
     <p className="card-text text-white mt-2 font-2xl" style={{fontFamily: "Rajdhani"}}>
-      "The best place to crash"<br></br>
-                              -- us
+      "Because comfort is more important."
     </p>
     <AnchorLink href="#packages" className="btn btn-outline-info mt-10 text-2xl">Explore packages</AnchorLink>
   </div>
