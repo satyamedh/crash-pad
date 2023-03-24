@@ -1,0 +1,466 @@
+[
+  {
+    "platform" : "BROWSER",
+    "searchTime" : "2022-12-24T11:46:23.574Z[UTC]",
+    "searchQuery" : "Toxic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2022-12-24T11:55:36.675Z[UTC]",
+    "searchQuery" : "never",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2022-12-25T03:56:00.463Z[UTC]",
+    "searchQuery" : "a",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2022-12-26T06:54:59.976Z[UTC]",
+    "searchQuery" : "still alive ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2022-12-26T06:55:02.297Z[UTC]",
+    "searchQuery" : "still alive portal",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-01-08T17:24:14.675Z[UTC]",
+    "searchQuery" : "bon",
+    "searchInteractionURIs" : [
+      "spotify:track:54ipXppHLA8U4yqpOFTUhr"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-01-08T18:42:43.242Z[UTC]",
+    "searchQuery" : "bon",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-01-08T18:42:46.706Z[UTC]",
+    "searchQuery" : "real",
+    "searchInteractionURIs" : [
+      "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+      "spotify:track:3yfqSUWxFvZELEM4PmlwIR"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-01-08T18:42:47.659Z[UTC]",
+    "searchQuery" : "re",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-01-10T17:00:12.769Z[UTC]",
+    "searchQuery" : "die o",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-01-10T17:00:13.625Z[UTC]",
+    "searchQuery" : "die for you",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-01-15T14:38:39.597Z[UTC]",
+    "searchQuery" : "neve",
+    "searchInteractionURIs" : [
+      "spotify:track:4PTG3Z6ehGkBFwjybzWkR8"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-01-15T14:42:04.841Z[UTC]",
+    "searchQuery" : "wi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-01-15T14:42:06.160Z[UTC]",
+    "searchQuery" : "wii sport",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-01-15T14:42:06.226Z[UTC]",
+    "searchQuery" : "wii sports",
+    "searchInteractionURIs" : [
+      "spotify:track:4mn9xkejyNn8EBKhrOf3aW",
+      "spotify:track:095HPmkmBLYaQeKpbfrMWk",
+      "spotify:track:4mn9xkejyNn8EBKhrOf3aW",
+      "spotify:track:0hl8k492sfcfLQudNctEiR",
+      "spotify:track:0tyLhEd4WKQYnOZxrl5EdK",
+      "spotify:track:095HPmkmBLYaQeKpbfrMWk"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-01-15T14:42:22.300Z[UTC]",
+    "searchQuery" : "wii sports",
+    "searchInteractionURIs" : [
+      "spotify:track:3rCbgZ8FgdUZdKzsphhzaE"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-01-26T14:51:01.905Z[UTC]",
+    "searchQuery" : "one direction dra",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-02T16:53:52.307Z[UTC]",
+    "searchQuery" : "meglo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-05T17:00:39.595Z[UTC]",
+    "searchQuery" : "wet",
+    "searchInteractionURIs" : [
+      "spotify:track:1tinoQpYXzpZDrb0BjK1e7"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-02-05T17:01:44.407Z[UTC]",
+    "searchQuery" : "m",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-02-05T17:01:45.417Z[UTC]",
+    "searchQuery" : "micr o",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-02-05T17:01:46.931Z[UTC]",
+    "searchQuery" : "micr on nu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-05T17:01:47.050Z[UTC]",
+    "searchQuery" : "micr on nus",
+    "searchInteractionURIs" : [
+      "spotify:track:5fqjfiMOFapIb8uFcxBStH",
+      "spotify:track:5GeN57qwAOFFSKAYi1OdzE"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-07T08:54:04.462Z[UTC]",
+    "searchQuery" : "star",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-07T16:45:47.150Z[UTC]",
+    "searchQuery" : "lemmino",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2023-02-08T00:43:46.461Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2023-02-08T00:43:46.600Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2023-02-08T00:43:47.421Z[UTC]",
+    "searchQuery" : "doom",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2023-02-08T00:43:47.506Z[UTC]",
+    "searchQuery" : "doom",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-08T17:48:18.561Z[UTC]",
+    "searchQuery" : "pianoc",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-10T17:44:39.760Z[UTC]",
+    "searchQuery" : "ride",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-14T15:03:36.319Z[UTC]",
+    "searchQuery" : "meglo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-14T15:07:44.474Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-14T15:08:58.101Z[UTC]",
+    "searchQuery" : "The only thing they fea",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-16T09:51:42.188Z[UTC]",
+    "searchQuery" : "little",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-16T09:51:46.249Z[UTC]",
+    "searchQuery" : "little piec",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-16T16:45:13.577Z[UTC]",
+    "searchQuery" : "It's been so long",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-18T12:49:54.076Z[UTC]",
+    "searchQuery" : "never",
+    "searchInteractionURIs" : [
+      "spotify:track:4PTG3Z6ehGkBFwjybzWkR8"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T16:44:01.631Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T16:44:25.511Z[UTC]",
+    "searchQuery" : "Toxicity",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T16:44:36.458Z[UTC]",
+    "searchQuery" : "Viscenity of obsenity",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T16:44:40.044Z[UTC]",
+    "searchQuery" : "Toxic",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T19:32:30.254Z[UTC]",
+    "searchQuery" : "sta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T19:32:30.352Z[UTC]",
+    "searchQuery" : "sta",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-02-18T19:46:42.576Z[UTC]",
+    "searchQuery" : "d",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-22T16:43:14.546Z[UTC]",
+    "searchQuery" : "bones",
+    "searchInteractionURIs" : [
+      "spotify:track:54ipXppHLA8U4yqpOFTUhr",
+      "spotify:track:54ipXppHLA8U4yqpOFTUhr"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-22T16:50:48.132Z[UTC]",
+    "searchQuery" : "free",
+    "searchInteractionURIs" : [
+      "spotify:track:5EWPGh7jbTNO2wakv8LjUI",
+      "spotify:track:5EWPGh7jbTNO2wakv8LjUI",
+      "spotify:track:5EWPGh7jbTNO2wakv8LjUI"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-22T16:54:24.103Z[UTC]",
+    "searchQuery" : "demon",
+    "searchInteractionURIs" : [
+      "spotify:track:5qaEfEh1AtSdrdrByCP7qR",
+      "spotify:track:62yJjFtgkhUrXktIoSjgP2"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-02-22T17:00:11.702Z[UTC]",
+    "searchQuery" : "imm",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-22T17:00:13.506Z[UTC]",
+    "searchQuery" : "immig",
+    "searchInteractionURIs" : [
+      "spotify:track:78lgmZwycJ3nzsdgmPPGNx",
+      "spotify:playlist:6Yep9CoC5RwA0lW5DqLQun"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-02-22T17:00:14.033Z[UTC]",
+    "searchQuery" : "immi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2023-02-24T17:37:37.361Z[UTC]",
+    "searchQuery" : "\"ci\"",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-25T09:40:42.022Z[UTC]",
+    "searchQuery" : "belie",
+    "searchInteractionURIs" : [
+      "spotify:track:0pqnGHJpmpxLKifKRmU6WP"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-26T19:38:38.403Z[UTC]",
+    "searchQuery" : "pumped",
+    "searchInteractionURIs" : [
+      "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
+      "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
+      "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-26T21:17:52.740Z[UTC]",
+    "searchQuery" : "akk",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-02-26T21:18:45.779Z[UTC]",
+    "searchQuery" : "echoee",
+    "searchInteractionURIs" : [
+      "spotify:track:7kriFJLY2KOhw5en9iI2jb"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-03-01T19:34:48.302Z[UTC]",
+    "searchQuery" : "cab",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-03-06T17:15:14.962Z[UTC]",
+    "searchQuery" : "rock",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2023-03-06T17:15:16.832Z[UTC]",
+    "searchQuery" : "rock ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-03-06T17:15:20.621Z[UTC]",
+    "searchQuery" : "rock you",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2023-03-11T16:30:56.955Z[UTC]",
+    "searchQuery" : "never",
+    "searchInteractionURIs" : [
+      "spotify:track:4PTG3Z6ehGkBFwjybzWkR8"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2023-03-15T17:45:37.700Z[UTC]",
+    "searchQuery" : "jvke",
+    "searchInteractionURIs" : [
+    ]
+  }
+]
